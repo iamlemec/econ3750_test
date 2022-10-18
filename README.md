@@ -1,2 +1,3 @@
-# econ3750_test
-Test repo
+# Econ3750: Test
+
+Test repo!
